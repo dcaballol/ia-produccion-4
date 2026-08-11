@@ -92,6 +92,7 @@ ia-produccion-4/
 │   ├── cargar_pvd_ipynb
 │   ├── 02_EDA.ipynb
 │   └── 03_tablas_resumen.ipynb
-    └── 04_limpieza_telefono.ipynb
+│   └── 04_limpieza_telefono_dcc.ipynb
+│   └── 05_filtrado_25_dcc.ipynb
 │
 └── .venv/
